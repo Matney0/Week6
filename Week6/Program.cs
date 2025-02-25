@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -21,7 +21,7 @@ namespace Week6
         public int MaxSpeed { get; set; }
 
 
-        //Properties
+        //values 
         public Vehicle(string make, string model, int year, int maxSpeed)
         {
             Make = make;
